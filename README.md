@@ -1,7 +1,7 @@
-<!-- АНИМАЦИЯ ПЕЧАТАНИЯ (ТВОЙ ВАРИАНТ) -->
+<!-- ТВОЙ НОВЫЙ ЗАГОЛОВОК (Typing SVG) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B2%D0%B5%D1%82!+%D0%AF+-+nekoty.+%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+IT+%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B0%2C+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=100&color=F7F7F7&width=810&height=60&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+nekoty.+%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+IT+%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B0%2C+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,12 +11,11 @@
 
 <br>
 
-<!-- ОБО МНЕ: КАРТИНКА СПРАВА -->
-<img align="right" src="https://i.imgflip.com/65efzo.gif" width="200" />
+<!-- ОБО МНЕ: ГИФКА СПРАВА -->
+<img align="right" src="https://images.steamusercontent.com/ugc/2518150038166836504/DDB1833F275F6F42F4C389F195FE589921255874/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="200" />
 
 ### 👤 Обо мне
-Я студент отделения информационных технологий **ОПК СТИ НИТУ "МИСИС"**. 
-Люблю веб-разработку, кодить и разбираться в новых технологиях.
+Я студент и начинающий разработку. Учу HTML и CSS, очень нравится Web-разработка.
 
 ### 🛠️ Технический стек
 <div align="left">
@@ -61,10 +60,5 @@
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="steam" />
   </a>
 </div>
-
-<br>
-
-<!-- ЗМЕЙКА -->
-<div align="center">
   <img src="https://raw.githubusercontent.com/nekotyy/nekotyy/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
