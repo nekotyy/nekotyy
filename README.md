@@ -1,4 +1,4 @@
-<!-- ТВОЙ НОВЫЙ ЗАГОЛОВОК (Typing SVG) -->
+<!-- ТВОЙ ЗАГОЛОВОК (Typing SVG) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=100&color=F7F7F7&width=810&height=60&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+nekoty.+%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+IT+%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B0%2C+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 <br>
 
 <!-- ОБО МНЕ: ГИФКА СПРАВА -->
-<img align="right" src="https://images.steamusercontent.com/ugc/2518150038166836504/DDB1833F275F6F42F4C389F195FE589921255874/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="200" />
+<img align="right" src="https://images.steamusercontent.com/ugc/2518150038166836504/DDB1833F275F6F42F4C389F195FE589921255874/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="200" style="border-radius: 10px;" />
 
 ### 👤 Обо мне
 Я студент и начинающий разработку. Учу HTML и CSS, очень нравится Web-разработка.
@@ -38,11 +38,13 @@
 
 <br>
 
-<!-- СТАТИСТИКА -->
+<!-- СТАТИСТИКА (Стиль GitHub Dark) -->
 <div align="center">
   <h2>📊 Статистика GitHub</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=nekotyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=ru&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nekotyy&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="150" alt="languages graph" />
+  <!-- Используем прозрачный фон и белый текст, чтобы сливалось с темной темой GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nekotyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=ru&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nekotyy&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=ru&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br>
@@ -59,6 +61,4 @@
   <a href="https://steamcommunity.com/profiles/76561199410853877/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="steam" />
   </a>
-</div>
-  <img src="https://raw.githubusercontent.com/nekotyy/nekotyy/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
