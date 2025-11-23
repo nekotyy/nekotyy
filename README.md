@@ -38,14 +38,16 @@
 
 <br>
 
-<!-- СТАТИСТИКА (Стиль GitHub Dark) -->
+<!-- СТАТИСТИКА -->
 <div align="center">
   <h2>📊 Статистика GitHub</h2>
-  <!-- Используем прозрачный фон и белый текст, чтобы сливалось с темной темой GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nekotyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=ru&hide_border=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nekotyy&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=ru&hide_border=true" height="150" alt="languages graph" />
+  <!-- Используем тему github_dark - она идеально совпадает с темной темой сайта -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nekotyy&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&locale=ru" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nekotyy&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&locale=ru" height="150" alt="languages graph" />
 </div>
+
 
 <br>
 
