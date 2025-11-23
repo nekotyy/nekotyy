@@ -1,9 +1,7 @@
-<!-- Заголовок с анимацией печатания -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Привет!+Я+Nekotyy+👋;Студент+ОПК+СТИ+НИТУ+«МИСИС»;Начинающий+разработчик" alt="Typing SVG" />
-  </a>
-</h1>
+<!-- Анимация печатания (Заголовок) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A9D2FF&center=true&vCenter=true&width=435&lines=Привет!+Я+Nekotyy+👋;Студент+ОПК+СТИ+НИТУ+«МИСИС»;Начинающий+разработчик" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nekotyy&style=flat-square&color=blueviolet" alt="profile views"/>
@@ -11,44 +9,34 @@
 
 <br>
 
-<!-- Основной блок: Текст слева, Гифка справа -->
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="60%" valign="middle">
-        <h3>👤 Обо мне</h3>
-        <p>
-          Я студент отделения информационных технологий <b>ОПК СТИ НИТУ "МИСИС"</b>. 
-          Увлекаюсь веб-разработкой и IT-сферой в целом.
-        </p>
-        <br>
-        
-        <h3>🛠️ Мой Технический Стек</h3>
-        <!-- Твой текущий стек (Devicons) -->
-        <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5"/>
-          <img width="10" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3"/>
-          <img width="10" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python"/>
-        </p>
+<!-- Основной блок: Гифка справа, текст слева -->
+<!-- align="right" заставляет картинку прижаться вправо, а текст обтекать её слева -->
+<img align="right" src="https://i.imgflip.com/65efzo.gif" width="230" />
 
-        <h3>🌱 В планах изучить</h3>
-        <!-- Планы на будущее (Shields badges) -->
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-        </p>
-      </td>
-      
-      <!-- Гифка справа -->
-      <td width="40%" align="center" valign="middle">
-        <img src="https://i.imgflip.com/65efzo.gif" width="100%" style="max-width: 250px; border-radius: 10px;" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 👤 Обо мне
+Я студент отделения информационных технологий **ОПК СТИ НИТУ "МИСИС"**. 
+Увлекаюсь веб-разработкой, люблю кодить и изучать новое в IT.
+
+### 🛠️ Мой Технический Стек
+<!-- Текущие знания -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python"/>
+</p>
+
+### 🌱 В планах изучить
+<!-- Планы -->
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+<!-- Этот тег нужен, чтобы следующий блок (статистика) не наезжал на гифку, если текста мало -->
+<br clear="all" />
 
 <br>
 
@@ -61,7 +49,7 @@
 
 <br>
 
-<!-- Социальные сети (Твои ссылки) -->
+<!-- Социальные сети -->
 <div align="center">
   <h2>🌐 Связь со мной</h2>
   <a href="https://discord.com/users/1144262019323793428" target="_blank">
@@ -77,7 +65,7 @@
 
 <br>
 
-<!-- Змейка -->
+<!-- Змейка (работает, если настроен GitHub Action) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/nekotyy/nekotyy/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
