@@ -1,7 +1,7 @@
-<!-- ЗАГОЛОВОК: Анимация печатания (Исправленная) -->
+<!-- АНИМАЦИЯ ПЕЧАТАНИЯ (ТВОЙ ВАРИАНТ) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=false&width=500&height=60&lines=Привет!+Я+Nekotyy+👋;Студент+ОПК+СТИ+НИТУ+«МИСИС»;Начинающий+разработчик" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B2%D0%B5%D1%82!+%D0%AF+-+nekoty.+%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+IT+%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B0%2C+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,8 +11,7 @@
 
 <br>
 
-<!-- ОБО МНЕ: Картинка справа, текст обтекает слева -->
-<!-- align="right" прижимает гифку к правому краю -->
+<!-- ОБО МНЕ: КАРТИНКА СПРАВА -->
 <img align="right" src="https://i.imgflip.com/65efzo.gif" width="200" />
 
 ### 👤 Обо мне
@@ -20,7 +19,6 @@
 Люблю веб-разработку, кодить и разбираться в новых технологиях.
 
 ### 🛠️ Технический стек
-<!-- Используем div для группировки, чтобы они не разлетались -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5"/>
   <img width="10" />
@@ -36,7 +34,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
-<!-- Очистка обтекания, чтобы статистика не налезла на гифку -->
+<!-- Очистка обтекания -->
 <br clear="all" />
 
 <br>
