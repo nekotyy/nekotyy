@@ -1,65 +1,77 @@
-<!-- ТВОЙ ЗАГОЛОВОК (Typing SVG) -->
+<!-- Заголовок с typing effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=100&color=F7F7F7&width=810&height=60&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+nekoty.+%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+IT+%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B0%2C+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=100&color=F7F7F7&width=810&height=60&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+nekoty.+%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+IT+%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B0%2C+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" />
   </a>
 </div>
 
+<br>
+
+<!-- Счётчик просмотров — стабильный -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nekotyy&style=flat-square&color=blueviolet" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nekotyy&style=flat-square&color=blueviolet" />
 </div>
 
 <br>
 
-<!-- ОБО МНЕ: ГИФКА СПРАВА -->
-<img align="right" src="https://images.steamusercontent.com/ugc/2518150038166836504/DDB1833F275F6F42F4C389F195FE589921255874/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="200" style="border-radius: 10px;" />
-
-### 👤 Обо мне
-Я студент и начинающий разработчик. Учу HTML и CSS, очень нравится Web-разработка.
-
-### 🛠️ Технический стек
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python"/>
-</div>
-
-### 🌱 В планах
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-</div>
-
-<!-- Очистка обтекания -->
-<br clear="all" />
-
-<br>
-
-<!-- СТАТИСТИКА -->
-<div align="center">
-  <h2>📊 Статистика GitHub</h2>
+<!-- О себе -->
+<div>
+  <img align="right" src="https://raw.githubusercontent.com/nekotyy/nekotyy/main/your_gif_here.gif" width="240px">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nekotyy&theme=dark&hide_border=true" height="150" alt="streak stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nekotyy&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&cache_seconds=1800" height="150" alt="languages graph" />
+  <h2>👋 Обо мне</h2>
+  <p>Я начинающий разработчик, студент IT колледжа. Интересуюсь веб-разработкой, фронтендом и дизайном.</p>
 </div>
 
+---
 
-<br>
+# 💻 Стек технологий
 
-<!-- СОЦСЕТИ -->
-<div align="center">
-  <h2>🌐 Связь со мной</h2>
-  <a href="https://discord.com/users/1144262019323793428" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord" />
-  </a>
-  <a href="https://t.me/nekoty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram" />
-  </a>
-  <a href="https://steamcommunity.com/profiles/76561199410853877/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="steam" />
-  </a>
-</div>
+### Сейчас изучаю:
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" />
+</p>
+
+### Хочу изучить:
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="48" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" />
+</p>
+
+---
+
+# 📊 Рабочая статистика GitHub (НЕ ЛОМАЕТСЯ)
+
+### ⭐ 1) Общая статистика (официальный и стабильный сервис)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nekotyy&theme=tokyonight" />
+</p>
+
+### 🧩 2) Граф языков (устойчивее, чем GitHub Readme Stats)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nekotyy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nekotyy&theme=tokyonight" />
+</p>
+
+### 🔥 3) Streak Stats (устойчивый сервер, НЕ jpy.wang)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nekotyy&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+# 📈 Полный профиль (генерируется автоматически)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekotyy&theme=tokyonight" />
+</p>
+
+---
+
+# 🔗 Связь со мной
+<p align="center">
+  <a href="https://t.me/ваш_ник">Telegram</a> •
+  <a href="https://discord.com">Discord</a> •
+  <a href="https://steamcommunity.com">Steam</a>
+</p>
