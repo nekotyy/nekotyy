@@ -42,27 +42,25 @@
 
 ---
 
-# 📊 Рабочая статистика GitHub (НЕ ЛОМАЕТСЯ)
-
-### ⭐ 1) Общая статистика (официальный и стабильный сервис)
+# 📊 Моя статистика 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nekotyy&theme=tokyonight" />
 </p>
 
-### 🧩 2) Граф языков (устойчивее, чем GitHub Readme Stats)
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nekotyy&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nekotyy&theme=tokyonight" />
 </p>
 
-### 🔥 3) Streak Stats (устойчивый сервер, НЕ jpy.wang)
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nekotyy&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-# 📈 Полный профиль (генерируется автоматически)
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekotyy&theme=tokyonight" />
 </p>
