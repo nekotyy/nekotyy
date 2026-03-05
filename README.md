@@ -29,10 +29,6 @@
 
 ---
 
-# 🏆 GitHub достижения
-![](https://github-profile-trophy.vercel.app/?username=nekotyy&theme=github_dark)
----
-
 # 📊 GitHub статистика
 
 ![](https://nirzak-streak-stats.vercel.app/?user=nekotyy&theme=dark&hide_border=false)
