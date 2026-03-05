@@ -30,8 +30,7 @@
 ---
 
 # 🏆 GitHub достижения
-![](https://github-profile-trophy.vercel.app/?username=nekotyy&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=nekotyy&theme=github_dark)
 ---
 
 # 📊 GitHub статистика
@@ -39,14 +38,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nekotyy&theme=dark&hide_border=false)
 
 ---
-
-
-# 🐍 Contribution Snake
-![snake](https://github.com/nekotyy/nekotyy/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=nekotyy&icon=0&color=0"/>
-</p>
-
