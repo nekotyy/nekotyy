@@ -57,7 +57,7 @@ https://nekoty.ru
 
 
 # 🐍 Contribution Snake
-![snake gif](https://github.com/nekotyy/nekotyy/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/nekotyy/nekotyy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
