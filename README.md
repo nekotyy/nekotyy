@@ -29,17 +29,6 @@
 
 ---
 
-# 🚀 Проекты
-🔹 **Ferrari Site**  
-Учебный сайт про Ferrari (HTML/CSS)  
-https://github.com/nekotyy/ferrari-site-dev
-
-🔹 **Personal Website**  
-Моя визитка  
-https://nekoty.ru
-
----
-
 # 🏆 GitHub достижения
 ![](https://github-profile-trophy.vercel.app/?username=nekotyy&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
